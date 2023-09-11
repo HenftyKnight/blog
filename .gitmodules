@@ -1,0 +1,4 @@
+[submodule "homeserver/public"]
+	path = homeserver/public
+	url = git@github.com:HenftyKnight/kailaash.git
+	branch = master
